@@ -45,8 +45,8 @@ export default {
     wordsets: {
       mynames: {
         words: ['Pixiemay', 'Пикси', 'Пиксар', 'Pixiemaus'],
-        delay: 1,
-        writeSpeed: 0.2,
+        delay: 0,
+        writeSpeed: 0.1,
         eraseSpeed: 0.1
       }
     }
