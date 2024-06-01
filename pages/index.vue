@@ -5,7 +5,7 @@ import AboutBut from "~/components/AboutBut.vue";
 
 <template>
   <div class="min-h-screen bg-zinc-900 xl:h-full">
-    <div class="pt-24 xl:pt-48 xl:mx-auto xl:mb-4 lg:mb-16 w-full md:w-1/2 animate-in fade-in-5 duration-1000 flex flex-col items-center">
+    <div class="pt-16 xl:pt-48 xl:mx-auto xl:mb-4 lg:mb-16 w-full md:w-1/2 animate-in fade-in-5 duration-1000 flex flex-col items-center">
       <img src="../assets/img/komar.jpg" class="rounded-full w-28 md:w-36 lg:w-32 xl:w-36">
       <div class="md:flex md:flex-row xl:w-auto xl:mx-52 mt-8 md:mt-8 flex flex-col items-center">
         <h1 class="text-white text-2xl md:text-4xl lg:text-4xl font-semibold tracking-normal">Привет! Меня зовут </h1>
