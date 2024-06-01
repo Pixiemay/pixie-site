@@ -4,7 +4,7 @@ import AboutBut from "~/components/AboutBut.vue";
 </script>
 
 <template>
-  <div class="w-full bg-zinc-900 lg:h-screen xl:h-full">
+  <div class="w-full bg-zinc-900 lg:h-screen xl:h-screen xl:fixed">
     <div class="pt-16 xl:mt-40 xl:mb-32 lg:mb-16 mx-20 md:mx-44 lg:mx-auto w-1/2 h-1/6 xl:h-2/6 animate-in fade-in-5 duration-1000">
       <img src="../assets/img/komar.jpg" class="rounded-full size-28 md:size-36 lg:size-32 xl:size-36 mx-12 lg:mx-auto">
       <div class="w-screen md:flex md:flex-row xl:mx-52">
