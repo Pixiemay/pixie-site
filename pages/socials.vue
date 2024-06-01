@@ -5,7 +5,7 @@
 <template>
   <div class="w-screen h-full bg-zinc-900 lg:h-screen xl:pt-16">
     <NuxtLink to="/" class="animate-in fade-in-5 duration-1000">
-      <div class="ml-[40px] pt-16 lg:pt-16 lg:mx-[260px] flex flex-row text-white hover:text-gray-300 animate-in fade-in-5 duration-1000">
+      <div class="ml-[32px] pt-16 lg:pt-16 lg:mx-[260px] flex flex-row text-white hover:text-gray-300 animate-in fade-in-5 duration-1000">
         <icon name="material-symbols:arrow-left-alt" class="size-8 md:size-12 mr-2 "/>
         <h2 class="font-semibold text-lg md:text-xl w-40 md:w-48 md:pt-2">Вернуться назад</h2>
       </div>
