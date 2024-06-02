@@ -15,7 +15,7 @@ import AuraComp from "~/components/about_page/auraComp.vue";
       </div>
     </NuxtLink>
     <h1 class="ml-12 xl:ml-32 2xl:ml-72 lg:mt-0 mt-2 bg-gradient-to-r from-violet-400 to-pink-400 bg-clip-text text-transparent text-4xl font-bold animate-in fade-in-5 duration-1000 w-48">Обо мне</h1>
-    <div class="flex xl:flex-row flex-col -ml-4">
+    <div class="flex xl:flex-row flex-col -ml-4 animate-in fade-in-5 duration-1000">
       <div class="grid grid-cols-1 grid-rows-2 2xl:gap-y-8 w-full xl:w-6/12 h-5/6 ml-12 xl:ml-24 2xl:ml-72 mt-16">
         <about-comp/>
         <che-comp />
