@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import SocBut from "~/components/SocBut.vue";
-import AboutBut from "~/components/AboutBut.vue";
+import SocBut from "~/components/main_page/SocBut.vue";
+import AboutBut from "~/components/main_page/AboutBut.vue";
 </script>
 
 <template>
@@ -12,7 +12,7 @@ import AboutBut from "~/components/AboutBut.vue";
         <span class="bg-gradient-to-r from-indigo-400 to-indigo-600 bg-clip-text text-transparent text-4xl lg:text-4xl font-bold mt-2 md:mt-0 md:ml-2 type-mynames"></span>
       </div>
     </div>
-    <div class="lg:grid grid-cols-2 grid-rows-1 lg:gap-4 lg:w-6/12 pb-12 lg:flex-row mx-auto w-56 -mt-8 xl:mt-0">
+    <div class="lg:grid grid-cols-2 grid-rows-1 lg:gap-4 lg:w-6/12 pb-12 lg:flex-row mx-auto xl:mt-0">
       <AboutBut class="animate-in fade-in-5 duration-1000 mb-4 lg:mb-0" />
       <SocBut class="animate-in fade-in-5 duration-1000"/>
     </div>
