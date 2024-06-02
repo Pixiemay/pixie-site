@@ -8,7 +8,7 @@ import TelegramBut from "~/components/soc_page/TelegramBut.vue";
 </script>
 
 <template>
-  <div class="w-screen h-full bg-zinc-900 lg:h-screen xl:pt-4">
+  <div class="w-screen h-full bg-zinc-900 lg:h-screen xl:h-full 2xl:h-screen xl:pt-4">
     <NuxtLink to="/" class="animate-in fade-in-5 duration-1000">
       <div class="ml-8 pt-16 lg:pt-16 lg:mx-64 flex flex-row text-white hover:text-gray-300 animate-in fade-in-5 duration-1000">
         <icon name="material-symbols:arrow-left-alt" class="size-8 md:size-12 mr-2 "/>
