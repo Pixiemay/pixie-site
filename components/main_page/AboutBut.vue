@@ -9,3 +9,5 @@
     </div>
   </NuxtLink>
 </template>
+<script setup lang="ts">
+</script>
