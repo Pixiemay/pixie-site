@@ -7,7 +7,7 @@ import AuraComp from "~/components/about_page/auraComp.vue";
 </script>
 
 <template>
-  <div class="w-full bg-zinc-900 lg:h-screen xl:h-full 2xl:h-screen xl:pt-12 2xl:pt-24 pb-16">
+  <div class="w-full bg-zinc-900 lg:h-screen xl:h-full 2xl:h-full xl:pt-12 2xl:pt-24 pb-16">
     <NuxtLink to="/" class="animate-in fade-in-5 duration-1000">
       <div class="ml-8 xl:ml-28 2xl:ml-64 pt-16 lg:pt-4 lg:mx-64 flex flex-row text-white hover:text-gray-300 animate-in fade-in-5 duration-1000">
         <icon name="material-symbols:arrow-left-alt" class="size-8 md:size-12 mr-2 "/>
@@ -20,7 +20,7 @@ import AuraComp from "~/components/about_page/auraComp.vue";
         <about-comp/>
         <che-comp />
       </div>
-      <div class="animate-in fade-in-5 duration-1000 xl:w-5/6 2xl:w-4/6 mt-20 xl:mt-4 items-center">
+      <div class="animate-in fade-in-5 duration-1000 xl:w-5/6 2xl:w-5/6 mt-20 xl:mt-4 items-center">
         <h1 class="text-4xl mb-4 mx-auto -mt-12 font-bold bg-gradient-to-r from-violet-400 to-pink-400 bg-clip-text text-transparent w-64">
           Мои проекты
         </h1>

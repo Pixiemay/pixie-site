@@ -9,6 +9,7 @@ export default {
     "./error.vue",
     "./node_modules/tw-elements/js/**/*.js",
   ],
+  darkMode: 'class',
   theme: {
     extend: {
       animation: {
