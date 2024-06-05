@@ -16,7 +16,7 @@ import TelegramBut from "~/components/soc_page/TelegramBut.vue";
       </div>
     </NuxtLink>
     <h1 class="ml-[40px] lg:ml-64 lg:mt-0 mt-2 bg-gradient-to-r from-blue-300 to-cyan-300 bg-clip-text text-transparent text-4xl font-bold animate-in fade-in-5 duration-1000 ">Социальные сети</h1>
-    <div class="grid grid-cols-1 lg:grid-cols-2 grid-rows-1 lg:grid-rows-2 gap-y-6 lg:gap-y-8 lg:gap-x-16 mx-auto w-9/12 mt-16 animate-in fade-in-5 duration-1000 pb-16">
+    <div class="grid grid-cols-1 lg:grid-cols-2 grid-rows-1 lg:grid-rows-2 gap-y-6 lg:gap-y-8 lg:gap-x-16 mx-auto w-9/12 xl:w-7/12 mt-16 animate-in fade-in-5 duration-1000 pb-16">
       <TelegramBut />
       <BoostyBut />
       <TwitchBut />
