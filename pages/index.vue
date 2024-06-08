@@ -5,7 +5,7 @@ import ThanksBut from "~/components/main_page/ThanksBut.vue";
 </script>
 
 <template>
-  <div class="min-h-screen bg-zinc-900 xl:h-full pb-16">
+  <div class="min-h-screen bg-zinc-900 xl:h-full pb-4">
     <div class="pt-12 xl:pt-12 2xl:pt-32 xl:mx-auto xl:mb-4 lg:mb-16 w-full md:w-1/2 animate-in fade-in-5 duration-1000 flex flex-col items-center">
       <img src="../assets/img/komar.jpg" class="rounded-full size-24 xl:size-36">
       <div class="md:flex md:flex-row xl:w-auto mt-4 md:mt-8 flex flex-col items-center">
