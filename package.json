@@ -3,6 +3,7 @@
   "type": "module",
   "scripts": {
     "build": "nuxt build",
+    "build:ts": "tsc",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
@@ -12,12 +13,14 @@
     "@nuxt/devtools": "^1.0.3",
     "@nuxtjs/color-mode": "^3.4.1",
     "@nuxtjs/i18n": "^8.3.1",
+    "@types/node": "^20.14.2",
     "autoprefixer": "^10.4.19",
     "nuxt": "^3.8.2",
     "nuxt-icon": "^0.6.10",
     "postcss": "^8.4.38",
     "tailwindcss": "^3.4.3",
     "tailwindcss-animate": "^1.0.7",
+    "typescript": "^5.4.5",
     "vue": "^3.3.8",
     "vue-router": "^4.2.5"
   },

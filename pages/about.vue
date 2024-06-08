@@ -18,7 +18,7 @@ import CheComp from "~/components/about_page/cheComp.vue";
         <che-comp class="-mt-4 xl:mt-0" />
       </div>
       <div class="animate-in fade-in-5 duration-1000 xl:w-5/6 2xl:w-5/6 mt-20 xl:mt-4 items-center">
-        <h1 class="text-4xl mb-4 mx-auto -mt-12 font-bold bg-gradient-to-r from-violet-400 to-pink-400 bg-clip-text text-transparent w-4/6">
+        <h1 class="text-4xl mb-4 mx-auto -mt-12 font-bold bg-gradient-to-r from-violet-400 to-pink-400 bg-clip-text text-transparent w-2/6">
           Мои проекты
         </h1>
         <div class="mx-auto w-5/6 xl:w-5/6 2xl:w-9/12 xl:pb-16 grid gap-y-4 xl:grid-cols-2 xl:grid-rows-1 grid-cols-1 grid-rows-2">
