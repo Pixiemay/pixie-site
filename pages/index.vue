@@ -13,7 +13,7 @@ import ThanksBut from "~/components/main_page/ThanksBut.vue";
         <div class="bg-gradient-to-r from-indigo-400 to-indigo-600 bg-clip-text text-transparent text-3xl lg:text-4xl font-bold mt-2 md:mt-0 md:ml-2 type-mynames"></div>
       </div>
     </div>
-    <div class="grid xl:grid-cols-2 xl:grid-rows-1 grid-cols-1 grid-rows-2 gap-y-4 xl:gap-x-16 w-9/12 xl:w-6/12 mb-12 lg:flex-row mx-auto mt-8 xl:mt-12 2xl:mt-4">
+    <div class="grid xl:grid-cols-2 xl:grid-rows-1 grid-cols-1 grid-rows-2 gap-y-4 xl:gap-x-16 w-9/12 xl:w-6/12 mb-12 lg:flex-row mx-auto mt-8 xl:mt-12">
       <AboutBut class="animate-in fade-in-5 duration-1000" />
       <SocBut class="animate-in fade-in-5 duration-1000"/>
     </div>
