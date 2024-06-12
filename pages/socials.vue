@@ -5,6 +5,7 @@ import TwitchBut from "~/components/soc_page/TwitchBut.vue";
 import DiscordBut from "~/components/soc_page/DiscordBut.vue";
 import GithubBut from "~/components/soc_page/GithubBut.vue";
 import TelegramBut from "~/components/soc_page/TelegramBut.vue";
+import DonAlertsBut from "~/components/soc_page/DonAlertsBut.vue";
 </script>
 
 <template>
@@ -22,6 +23,7 @@ import TelegramBut from "~/components/soc_page/TelegramBut.vue";
       <TwitchBut />
       <DiscordBut />
       <GithubBut />
+      <DonAlertsBut />
     </div>
   </div>
 </template>
